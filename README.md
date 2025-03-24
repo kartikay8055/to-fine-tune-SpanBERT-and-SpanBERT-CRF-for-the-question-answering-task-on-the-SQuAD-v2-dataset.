@@ -46,6 +46,8 @@ This project fine-tunes **SpanBERT** and **SpanBERT-CRF** for the **question-ans
 
 ## 3. Training and Validation Plots
 ![spanbert](https://github.com/user-attachments/assets/b76f41d8-3d73-43e9-8c0a-529d10b10caa)
+![crf](https://github.com/user-attachments/assets/ab93f936-83b8-4356-945a-8e0cb7ceecc1)
+
 
 
 ## 4. Exact Match Scores
@@ -53,6 +55,9 @@ This project fine-tunes **SpanBERT** and **SpanBERT-CRF** for the **question-ans
 |---------------|----------------------|
 | SpanBERT      | 47.87%               |
 | SpanBERT-CRF  | 50.80%               |
+![em](https://github.com/user-attachments/assets/24000017-fef4-4054-bf80-7c76ffaed75b)
+
+
 
 ## 5. Comparative Analysis
 ### SpanBERT vs SpanBERT-CRF
@@ -66,23 +71,6 @@ Based on the **Exact Match (EM) scores**, the **SpanBERT-CRF model** provides a 
 - Further **hyperparameter tuning**.
 - Exploring **more sophisticated models** to enhance performance.
 
-## 7. How to Run the Code
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/SpanBERT_QA.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd SpanBERT_QA
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the training script:
-   ```bash
-   python task3.py
-   ```
 
 ## 8. Acknowledgments
 - **SpanBERT** and **SpanBERT-CRF** implementations.
