@@ -45,7 +45,8 @@ This project fine-tunes **SpanBERT** and **SpanBERT-CRF** for the **question-ans
 - The **maximum sequence length** is set to **384** (question + context).
 
 ## 3. Training and Validation Plots
-(TODO: Add plots here)
+![spanbert](https://github.com/user-attachments/assets/b76f41d8-3d73-43e9-8c0a-529d10b10caa)
+
 
 ## 4. Exact Match Scores
 | Model          | Exact Match (EM) Score |
