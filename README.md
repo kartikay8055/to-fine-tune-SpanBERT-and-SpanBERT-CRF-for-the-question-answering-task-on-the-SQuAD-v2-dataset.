@@ -1,0 +1,2 @@
+# to-fine-tune-SpanBERT-and-SpanBERT-CRF-for-the-question-answering-task-on-the-SQuAD-v2-dataset.
+In this task, you are required to fine-tune SpanBERT and SpanBERT-CRF for the question-answering task on the SQuAD v2 dataset. The objective is to extract the answer span from the given context as per the question asked.The dataset used for this task is the Stanford Question Answering Dataset v2 (SQuAD v2). 
